@@ -15,7 +15,7 @@ It features an About Me section, Projects with GitHub and live demo links, and a
 - JavaScript
 
 ## How to View
-You can see the live portfolio here: (https://github.com/JAAFAR12781/portfolio-website.git) (Replace with your GitHub Pages URL)
+You can see the live portfolio here: (https://github.com/JAAFAR12781/portfolio-website.git)
 
 ## Contact Me
 Feel free to reach out via the contact form on the website or email me at jaafarsoufiane303@gmail.com.
